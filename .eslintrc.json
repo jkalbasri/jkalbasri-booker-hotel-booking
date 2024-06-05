@@ -1,11 +1,3 @@
 {
-    "extends": [
-        "react-app",
-        "plugin:cypress/recommended"
-    ],
-    "env": {
-        "cypress/globals": true,
-        "browser": true,
-        "node": true
-    }
+    "extends": "react-app"
 }
