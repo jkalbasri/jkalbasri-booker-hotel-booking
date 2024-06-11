@@ -1,4 +1,4 @@
-<a href="#"><img src="public/logo-dark.png" alt="The Cabin Hub"></a>
+<a align="center" href="https://the-cabin-hub.vercel.app/" target="_blank"><img src="public/logo-dark.png" alt="The Cabin Hub"></a>
   <hr>
 <h3 align="center">The hotel's internal management system empowers employees to oversee all aspects of hotel bookings, accommodations, and guest services.</h3>
 
@@ -12,7 +12,7 @@
     <a href="#installation">Installation</a>
 </h4>
 
-<a align="center" href="https://#####.vercel.app/"><img src="public/dashbord.jpg" alt="The cabin hub dashbord"></a>
+<a align="center" href="https://the-cabin-hub.vercel.app/" target="_blank" ><img src="public/dashbord.jpg" alt="The cabin hub dashbord"></a>
 
 ## Features
 
