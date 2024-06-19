@@ -96,7 +96,7 @@
 
 - Set up the environment variables:
 
-  1.  Duplicate `.env.example` file into `.env`
+  1.  Duplicate `"sample.env` file into `.env`
 
   2.  Add the <b>supabase URL</b> and <b>key</b>
 
