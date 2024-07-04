@@ -3,7 +3,6 @@
 <h3 align="center">The hotel's internal management system empowers employees to oversee all aspects of hotel bookings, accommodations, and guest services.</h3>
 
 <h4 align="center">
-  <span> · </span>
     <a href="#features">Features</a>
   <span> · </span>
     <a href="#tech-stack">Tech Stack</a>
