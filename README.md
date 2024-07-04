@@ -12,6 +12,9 @@
     <a href="#installation">Installation</a>
 </h4>
 
+
+## 🌐 <a href="https://the-cabin-hub.vercel.app/" target="blank" align="center"> Live Preview </a>
+
 <a align="center" href="https://the-cabin-hub.vercel.app/" target="_blank" ><img src="public/dashbord.jpg" alt="The cabin hub dashbord"></a>
 
 ## Features
